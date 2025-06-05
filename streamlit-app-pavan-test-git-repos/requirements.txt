@@ -1,0 +1,15 @@
+pandas
+databricks-sql-connector
+databricks-sdk
+python-dotenv
+streamlit-float
+streamlit-chat-widget
+streamlit==1.41.0
+streamlit-modal
+streamlit-markmap==1.0.1
+streamlit-flow-component
+streamlit-free-text-select
+streamlit-keyup
+networkx
+extra-streamlit-components==0.1.71
+slack_sdk==3.35.0

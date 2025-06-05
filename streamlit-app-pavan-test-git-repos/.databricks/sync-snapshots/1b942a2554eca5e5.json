@@ -1,0 +1,41 @@
+{
+  "version": "v1",
+  "host": "https://cust-e2-us-west-2.cloud.databricks.com",
+  "remote_path": "/Workspace/Users/pavan.kumarchalamcharla@databricks.com/streamlit-app-pavan-test",
+  "last_modified_times": {
+    ".DS_Store": "2025-06-05T17:40:22.778131567+05:30",
+    "Hello.py": "2022-06-03T21:38:07+05:30",
+    "LICENSE": "2022-06-03T21:38:07+05:30",
+    "README.md": "2022-06-03T21:38:07+05:30",
+    "__pycache__/utils.cpython-313.pyc": "2025-06-05T18:03:01.179478094+05:30",
+    "app.yaml": "2025-06-05T18:23:10.008124766+05:30",
+    "mpa-hero.gif": "2022-06-03T21:38:07+05:30",
+    "pages/1_📈_Plotting_Demo.py": "2022-06-03T21:38:07+05:30",
+    "requirements.txt": "2025-06-05T17:42:29.935684+05:30",
+    "utils.py": "2022-06-03T21:38:07+05:30"
+  },
+  "local_to_remote_names": {
+    ".DS_Store": ".DS_Store",
+    "Hello.py": "Hello.py",
+    "LICENSE": "LICENSE",
+    "README.md": "README.md",
+    "__pycache__/utils.cpython-313.pyc": "__pycache__/utils.cpython-313.pyc",
+    "app.yaml": "app.yaml",
+    "mpa-hero.gif": "mpa-hero.gif",
+    "pages/1_📈_Plotting_Demo.py": "pages/1_📈_Plotting_Demo.py",
+    "requirements.txt": "requirements.txt",
+    "utils.py": "utils.py"
+  },
+  "remote_to_local_names": {
+    ".DS_Store": ".DS_Store",
+    "Hello.py": "Hello.py",
+    "LICENSE": "LICENSE",
+    "README.md": "README.md",
+    "__pycache__/utils.cpython-313.pyc": "__pycache__/utils.cpython-313.pyc",
+    "app.yaml": "app.yaml",
+    "mpa-hero.gif": "mpa-hero.gif",
+    "pages/1_📈_Plotting_Demo.py": "pages/1_📈_Plotting_Demo.py",
+    "requirements.txt": "requirements.txt",
+    "utils.py": "utils.py"
+  }
+}
